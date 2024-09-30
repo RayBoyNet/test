@@ -12,3 +12,6 @@ def div(x,y):
 
 def square(x):
     return x**2
+
+def power(a,b):
+    return a**b
