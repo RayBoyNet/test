@@ -9,6 +9,3 @@ def mul(x,y):
 
 def div(x,y):
     return x/y
-
-def square(x):
-    return x**2
