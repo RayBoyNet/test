@@ -1,7 +1,7 @@
 class Hello:
 
     def __init__(self):
-        print("Hello World")
+        print("Hello Raymond")
 
 
 if __name__ == '__main__':
