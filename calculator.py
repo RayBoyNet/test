@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def add(x,y):
     return x+y
 
@@ -9,3 +10,5 @@ def mul(x,y):
 
 def div(x,y):
     return x/y
+=======
+>>>>>>> power
