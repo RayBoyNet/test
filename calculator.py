@@ -12,3 +12,6 @@ def div(x,y):
 
 def mod(x,y):
     return x%y
+
+def foo():
+    return "this is foo function"
